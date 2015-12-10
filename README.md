@@ -24,6 +24,13 @@ Charles是一个简单的基于HTTP协议传输的调试工具，在开发和测
 
 参见->[《Mac上的抓包工具Charles》](http://blog.csdn.net/jiangwei0910410003/article/details/41620363)
 
+下载地址：
+
+[Mac版 Charles3.11.2 下载](http://download.csdn.net/detail/xieyupeng520/9342943)
+
+[Charles3.11.2 破解包下载](http://download.csdn.net/detail/xieyupeng520/9342987)
+
+
 2.界面功能
 ===
 
