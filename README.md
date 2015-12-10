@@ -1,5 +1,9 @@
 # AZCharles
-【黑科技】学习抓包之如何用Charles实现“刷楼”
+#【黑科技】学习抓包之如何用Charles实现“刷楼”
+
+CSDN：http://blog.csdn.net/XieYupeng520/article/details/50251449
+简书：http://www.jianshu.com/p/644ccb582ba6
+---
 
 本来这篇文章发表在CSDN的，我实在是怕被CSDN的管理员删帖，所以再存一份2333
 
