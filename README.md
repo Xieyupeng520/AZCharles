@@ -124,7 +124,7 @@ Reference:
 
 [《Charles抓包工具详细教程》](http://jingyan.baidu.com/album/5bbb5a1b4cb92513eaa1797a.html?picindex=2)
 [《charles使用教程指南》](http://drops.wooyun.org/tips/2423)
-
+[《Charles 从入门到精通(中国5折特惠) - 唐巧的技术博客》](http://blog.devtang.com/blog/2015/11/14/charles-introduction/)
 ---
 
 刚刚发现CSDN管理员把我之前刷楼的数据都删除了，本来我准备自己删的，看来这个“黑科技”还是不要随便乱用哈！~
